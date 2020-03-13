@@ -4,7 +4,7 @@ Solution to the project.
 ## Libraries Used
 - socket.io
 
-##Build Instructions
+## Build Instructions
 1. Download repository using: git clone https://github.com/hani-sayegh/AheevaProject
 2. Enter the server folder using: cd server\
 3. Run: npm i
